@@ -2,7 +2,7 @@
 
 Create ".env" file with VUE_APP_APP_URL=http://interview.agileengine.com
 and variable VUE_APP_API_KEY=23567b218376f79d9415
-
+(I have pushed .env by misstake)
 ## Project setup
 ```
 npm install
